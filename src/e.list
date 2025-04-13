@@ -1,0 +1,107 @@
+#======================================#
+#更新时间 2025-3-27
+#~~******~~
+#======================================#
+
+# > anisaga!!
+DOMAIN-SUFFIX,anisaga.tv
+
+# > PiliPili
+DOMAIN-SUFFIX,pilipiliultra.com
+DOMAIN-SUFFIX,994959.xyz
+DOMAIN-SUFFIX,pilipili.me
+DOMAIN-SUFFIX,pilifun.top
+
+# > Prejudice
+DOMAIN,emby.1l1.icu
+
+# > 纸片人
+DOMAIN,embyplus.org
+
+# > CC公益
+DOMAIN-SUFFIX,coemn.com
+DOMAIN-SUFFIX,embycc.link
+
+# > 云海emby
+DOMAIN,emby.oceancloud.asia
+
+# > 垃圾emby
+DOMAIN-SUFFIX,998903.xyz
+
+# > 见手青
+DOMAIN-SUFFIX,mooguu.xyz
+
+# > ChilledMelon(西瓜）
+DOMAIN-SUFFIX,1024.name
+DOMAIN-SUFFIX,1024.one
+DOMAIN,daigua.j8.work
+
+# > YounoEmby
+DOMAIN-SUFFIX,younoyes.com
+
+# >Doubon
+DOMAIN-SUFFIX,114514.quest
+
+# > 卷毛鼠
+DOMAIN-SUFFIX,jmsuper.com
+DOMAIN,jmsooo.com
+
+# > 卡戎
+DOMAIN,play.charontv.com
+
+# > Hkaemby
+DOMAIN-SUFFIX,aliz.work
+
+# > 起点站
+DOMAIN,free.28.al
+
+# > 非越
+DOMAIN-SUFFIX,sfcj.org
+
+# > 探花TV
+DOMAIN,tanhuatv.site
+
+# > 二刺螈emby
+DOMAIN-SUFFIX,nijigem.by
+DOMAIN-SUFFIX,bgp.yt
+DOMAIN-SUFFIX,cdn.bgp.yt
+
+# > nyamedia
+DOMAIN-SUFFIX,bangumi.ca
+
+# > 月饼公益
+DOMAIN-SUFFIX,emby.my
+
+# > 惊蛰
+DOMAIN-SUFFIX,jingzhe.pro
+# >叶子
+DOMAIN-SUFFIX,yezi.my
+
+# > Nanflix-US
+DOMAIN-SUFFIX,nanflix.net
+
+# > Paul
+DOMAIN,cf.imetyou.top
+
+#> 1111
+DOMAIN-SUFFIX,emby.ml
+DOMAIN-SUFFIX,loseremby.org
+
+# > TreeDiagram
+DOMAIN-SUFFIX,123456.al
+
+# > EMBY 餐厅
+DOMAIN-SUFFIX,mius.uk
+
+# > pornemby
+DOMAIN,pornemby.club
+IP-CIDR,195.201.86.86/32,no-resolve
+
+# > 终点站
+DOMAIN,emby.wtf
+DOMAIN,pub1back.emby.wtf
+DOMAIN,pub2back.emby.wtf
+DOMAIN,pub3back.emby.wtf
+DOMAIN,pub1.emby.wtf
+DOMAIN,pub2.emby.wtf
+DOMAIN,pub3.emby.wtf
